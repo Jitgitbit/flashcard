@@ -1,0 +1,9 @@
+body {
+  margin: auto;
+  padding: 2rem 0;
+  width: auto;
+  background: rgb(153, 0, 255);
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+  border: 8px solid orange;
+}
