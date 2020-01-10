@@ -7,7 +7,7 @@ body {
   width: auto;
   background: rgb(153, 0, 255);
   font-family: 'Inconsolata', monospace;
-  border: 8px solid orange;
+  border: 8px solid rgb(0, 140, 255);
   border-radius: 15px;
   color: black;
 }
@@ -18,7 +18,7 @@ body {
   margin: 15px;
   display: flex;
   justify-content: center;
-  flex-direction: column;  /* <--- I added this */
+  flex-direction: column;
   align-items: center; 
   
 }
