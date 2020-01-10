@@ -12,36 +12,36 @@ const rollerDeck = function(){
       answer: '24 !',
     },
     {
-      question: 'Question 3',
-      answer: 'Answer 3',
+      question: 'Which planet is larger, Earth or Mars ?',
+      answer: 'Earth !',
     },
     {
-      question: 'Question 4',
-      answer: 'Answer 4',
+      question: 'Which planet is closer to the Sun, Earth or Venus ?',
+      answer: 'Venus !',
     },
     {
-      question: 'Question 5',
-      answer: 'Answer 5',
+      question: 'Where do polar bears come from ?',
+      answer: 'The Arctic region !',
     },
     {
-      question: 'Question 6',
-      answer: 'Answer 6',
+      question: 'Where do penguins come from ?',
+      answer: 'Antarctica !',
     },
     {
-      question: 'Question 7',
-      answer: 'Answer 7',
+      question: 'Which type of sugar does milk contain ?',
+      answer: 'Lactose !',
     },
     {
-      question: 'Question 8',
-      answer: 'Answer 8',
+      question: 'What does "Full stack" stand for ?',
+      answer: 'Front and Back-end !',
     },
     {
-      question: 'Question 9',
-      answer: 'Answer 9',
+      question: 'How much blood does a human have on average ?',
+      answer: '5.1 Liters !',
     },
     {
-      question: 'Question 10',
-      answer: 'Answer 10',
+      question: 'Combining blue and yellow gives which color ?',
+      answer: 'Green !',
     },
   ];
 
