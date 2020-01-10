@@ -1,6 +1,7 @@
 body {
   margin: auto;
   padding: 2rem 0;
+  height: auto;
   width: auto;
   background: rgb(153, 0, 255);
   font-family: 'Inconsolata', monospace;
